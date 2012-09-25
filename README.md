@@ -12,6 +12,8 @@ Installation
 
 ```bash
 $ component install juliangruber/stream
+# or
+$ npm install stream
 ```
 
 Usage example
