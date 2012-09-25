@@ -8,7 +8,7 @@ Ported straight from the [Node.js core](https://github.com/joyent/node/blob/mast
 For docs:
 
 * [Stream Node.js v0.8.9 Manual & Documentation](http://nodejs.org/api/stream.html)
-* [Stream Handbook](http://nodejs.org/api/stream.html)
+* [Stream Handbook](https://github.com/substack/stream-handbook)
 
 A [testsuite](https://github.com/juliangruber/stream/blob/master/test.html) for the browser is there too. Just issue `npm install` after you've cloned this repo and then open the html file.
 
