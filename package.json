@@ -12,8 +12,8 @@
   ],
   "author": "Julian Gruber <julian@juliangruber.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "mocha": "*",
     "expect.js": "*"
-  }
+  } 
 }
