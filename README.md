@@ -5,6 +5,8 @@ Node.js streams in the browser.
 
 Ported straight from the [Node.js core](https://github.com/joyent/node/blob/master/lib/stream.js) and adapted to [component/emitter](https://github.com/component/emitter)'s api.
 
+__If you're offended by this, keep in mind that it's old and I don't want to break anyone's build by deleting this.__
+
 For docs:
 
 * [Stream Node.js v0.8.9 Manual & Documentation](http://nodejs.org/api/stream.html)
