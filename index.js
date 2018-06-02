@@ -19,7 +19,7 @@
 // OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
 // USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-const Emitter = require("emitter-component");
+var Emitter = require("emitter-component");
 
 function Stream() {
   Emitter.call(this);
