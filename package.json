@@ -1,6 +1,6 @@
 {
   "name": "stream",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node.js streams in the browser",
   "main": "index.js",
   "browser": {
