@@ -81,7 +81,7 @@
           });
           it('should throw errors on uncaught exceptions in src', function(done) {
             try {
-               src.emit('error', new Error('some error'));
+              src.emit('error', new Error('some error'));
             } catch(err) {
               expect(err).to.be.an(Error);
               done();
@@ -89,7 +89,7 @@
           });
           it('should throw errors on uncaught exceptions in dest', function(done) {
             try {
-               dest.emit('error', new Error('some error'));
+              dest.emit('error', new Error('some error'));
             } catch(err) {
               expect(err).to.be.an(Error);
               done();
@@ -158,7 +158,7 @@
             }
             src.pipe(dest, {end: false});
             src.emit('end');
-          });        
+          });
         });
       });
 

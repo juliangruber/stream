@@ -16,7 +16,7 @@
   "author": "Julian Gruber <julian@juliangruber.com>",
   "license": "MIT",
   "dependencies": {
-    "emitter-component": "^1.1.1"
+    "component-emitter": "^2.0.0"
   },
   "devDependencies": {
     "mocha": "*",
